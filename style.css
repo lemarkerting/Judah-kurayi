@@ -144,3 +144,19 @@ body {
 .whatsapp-float:hover {
   background: #1ebe5d;
 }
+/* Call Button */
+.call-btn {
+  background: #ff6a00;
+  color: #fff;
+  border-radius: 10px;
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 15px;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+.call-btn:hover {
+  background: #e85d00;
+}
