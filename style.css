@@ -345,3 +345,27 @@ body {
     gap: 2rem;
   }
 }
+/* FINAL CTA */
+.final-cta {
+  background: linear-gradient(135deg, #0b5ed7, #094db1);
+  color: #fff;
+  text-align: center;
+  padding: 70px 20px;
+  margin-top: 80px;
+}
+
+.final-cta h2 {
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+.final-cta p {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  font-size: 16px;
+  opacity: 0.9;
+}
+
+.cta-buttons .btn {
+  margin: 10px;
+}
